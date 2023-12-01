@@ -1,5 +1,5 @@
 {
-  "name": "@fastify/oauth2",
+  "name": "@chanjet/fastify-oauth2",
   "version": "7.7.0",
   "description": "Perform login using oauth2 protocol",
   "main": "index.js",
