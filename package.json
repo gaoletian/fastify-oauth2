@@ -15,9 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fastify/fastify-oauth2.git"
+    "url": "git+https://github.com/gaoletian/fastify-oauth2.git"
   },
   "author": "Tommaso Allevi - @allevo",
+  "maintainers": [
+    {
+      "name": "chanjetsdp",
+      "email": "chanjetsdp@chanjet.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/fastify/fastify-oauth2/issues"
